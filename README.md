@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hola, mi nombre es WaldoJR88 
+
+- Soy Técnico en Sistema Microinformáticos y Redes.
+
+Me gusta aprender cosas nuevas y ponerme retos nuevos, en los cuales dos de ellos es aprender programacion y también ciberceguridad y hacking ético. Cada proyecto que haga me gustaria subirlo y mostrarselo para que ustedes lo puedan ver y me puedan aconsejar en cosas a mejorar.
 
 <!--
 **WaldoJR88/WaldoJR88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
